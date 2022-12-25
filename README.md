@@ -43,6 +43,11 @@ Dataset consists of 12 attributes like Item Fat, Item Type, Item MRP, Outlet Typ
 `pip install pickle`
 `pip install flask`
 
+# Run Flask Api
+To run tests, run the following command:
+
+`python3 app.py`
+
 # Project Flow
 ### We will be following the table of content given below.
 * 1).Problem Statement
